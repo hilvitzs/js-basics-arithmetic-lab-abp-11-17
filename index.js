@@ -7,3 +7,6 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
+function newId() {
+  return 1
+}
